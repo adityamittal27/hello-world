@@ -1,2 +1,2 @@
 # hello-world
-First git exercise
+First git exercise after going through the tutorial
